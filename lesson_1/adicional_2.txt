@@ -1,1 +1,5 @@
-Este está en una carpeta nueva.
+
+- Esta es la modificación que estoy haciendo hoy jueves.
+
+Este está en una carpeta nueva (la del martes).
+
