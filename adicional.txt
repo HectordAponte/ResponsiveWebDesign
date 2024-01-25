@@ -5,3 +5,7 @@ Este es un archivo de prueba para agregar a un proyecto Git.
 
 El tutor.
 
+---
+
+Esto fue cuando expliqué el flujo de trabajo de los commits
+
