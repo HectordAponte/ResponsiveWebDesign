@@ -4,4 +4,5 @@ Este es un archivo de prueba para agregar a un proyecto Git.
 - Ahora estoy haciéndolo bien.
 
 El tutor.
+Ahora estamos explorando Sincronizar cambios.
 
